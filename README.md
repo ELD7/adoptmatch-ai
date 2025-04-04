@@ -1,36 +1,36 @@
-# AdoptMatch: AI per adozioni animali responsabili
+# AdoptMatch: AI for Responsible Animal Adoptions
 
-## Riepilogo
-AdoptMatch è un progetto che usa l’intelligenza artificiale per abbinare adottanti e animali in modo più consapevole e compatibile.  
-L’obiettivo è migliorare la qualità delle adozioni e ridurre il numero di animali restituiti ai rifugi.  
-Il sistema analizza preferenze, abitudini e caratteristiche comportamentali per suggerire il miglior animale disponibile.
+## Summary  
+AdoptMatch is a project that uses artificial intelligence to match adopters with shelter animals in a more conscious and compatible way.  
+The goal is to improve the quality of adoptions and reduce the number of animals returned to shelters.  
+The system analyzes preferences, habits, and behavioral characteristics to suggest the most suitable animal.
 
-## 1. La tua idea in poche parole
-AdoptMatch è un sistema basato su intelligenza artificiale che abbina persone interessate all’adozione di animali con cani e gatti disponibili nei rifugi, in base a preferenze, stile di vita e compatibilità comportamentale.
+## 1. Your idea in a few words  
+AdoptMatch is an AI-based system that matches people interested in adopting animals with dogs and cats available in shelters, based on preferences, lifestyle, and behavioral compatibility.
 
-## 2. Contesto
-Ogni anno migliaia di animali da compagnia finiscono nei rifugi o vengono restituiti dopo un’adozione non adatta. Il problema nasce spesso da una **scarsa compatibilità** tra l’adottante e l’animale.  
-L’idea è nata perché amo gli animali e credo che l’adozione sia un atto importante, ma dovrebbe essere fatto con consapevolezza.
+## 2. Background  
+Every year, thousands of companion animals end up in shelters or are returned after an unsuitable adoption. This often happens due to **poor compatibility** between the adopter and the animal.  
+The idea came from my love for animals and the belief that adoption is an important act that should be made consciously.
 
-## 3. Tecniche di dati e intelligenza artificiale
-Il sistema raccoglie:
-- dati sugli **animali** (età, taglia, livello di energia, compatibilità con altri animali o bambini, abitudini)
-- dati sugli **utenti** (spazio abitativo, orari lavorativi, esperienza con animali, preferenze)
+## 3. Data and AI techniques  
+The system collects:  
+- Data about the **animals** (age, size, energy level, compatibility with other animals or children, habits)  
+- Data about the **users** (living space, work schedule, experience with animals, preferences)
 
-L’IA (una rete neurale o algoritmo di raccomandazione) valuta la compatibilità tra utente e animale per suggerire **l’adozione ideale**. Può anche prevedere il **rischio di restituzione**.
+The AI (a neural network or recommendation algorithm) evaluates the compatibility between the user and the animal to suggest the **ideal adoption**. It can also predict the **risk of return**.
 
-## 4. Come viene utilizzata oggi
-Alcune piattaforme mostrano schede animali, ma nessuna usa l’IA per **personalizzare** la scelta.  
-AdoptMatch mira a colmare questo gap, migliorando la qualità dell’adozione e riducendo gli abbandoni.
+## 4. How it is used today  
+Some platforms show animal profiles, but none use AI to **personalize** the selection.  
+AdoptMatch aims to fill this gap, improving adoption quality and reducing returns.
 
-## 5. Sfide
-- Reperire dati reali e completi da rifugi (richiede collaborazione)
-- Etica: garantire che l’IA non discrimini o escluda opzioni valide
-- Affidabilità del matching: evitare “falsi positivi” (abbinamenti scorretti)
+## 5. Challenges  
+- Getting real and complete data from shelters (requires collaboration)  
+- Ethics: ensuring the AI doesn’t discriminate or exclude valid options  
+- Matching reliability: avoiding "false positives" (bad matches)
 
-## 6. Cosa c’è dopo
-AdoptMatch potrebbe evolvere in una **rete di rifugi interconnessi**, supportare **adozioni internazionali**, o integrarsi con app veterinarie e sistemi di tracciamento.
+## 6. What’s next  
+AdoptMatch could evolve into a **network of connected shelters**, support **international adoptions**, or integrate with veterinary apps and tracking systems.
 
-## 7. Ringraziamenti
-Ispirazione da esperienze personali di volontariato nei rifugi e dal progetto Petfinder.  
-Grazie al corso *Elements of AI* per avermi aiutato a pensare in chiave pratica.
+## 7. Acknowledgements  
+Inspired by personal experiences volunteering in shelters and by the Petfinder project.  
+Thanks to the *Elements of AI* course for helping me think practically.
