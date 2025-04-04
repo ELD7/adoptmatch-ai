@@ -1,0 +1,25 @@
+# adoptmatch_demo.py
+# Codice di esempio per la tua idea di IA
+
+# Lista semplificata di animali
+animals = [
+    {"name": "Luna", "type": "dog", "energy": 5, "good_with_kids": True},
+    {"name": "Milo", "type": "cat", "energy": 2, "good_with_kids": False},
+    {"name": "Rex", "type": "dog", "energy": 8, "good_with_kids": True},
+]
+
+# Profilo utente
+user = {"has_kids": True, "preferred_energy": 6}
+
+# Funzione di matching
+def match(user, animals):
+    def score(animal):
+        score = 0
+        score += 1 if animal["good_with_kids"] == user["has_kids"] else -1
+        score -= abs(animal["energy"] - user["preferred_energy"])
+        return score
+    best = max(animals, key=score)
+    return best
+
+best_match = match(user, animals)
+print(f"L'animale più compatibile per te è: {best_match['name']} ({best_match['type']})")
