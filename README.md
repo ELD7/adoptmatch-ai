@@ -1,6 +1,10 @@
 # AdoptMatch: AI per adozioni animali responsabili
 
-## Riepilogo 
+## Riepilogo
+AdoptMatch è un progetto che usa l’intelligenza artificiale per abbinare adottanti e animali in modo più consapevole e compatibile.  
+L’obiettivo è migliorare la qualità delle adozioni e ridurre il numero di animali restituiti ai rifugi.  
+Il sistema analizza preferenze, abitudini e caratteristiche comportamentali per suggerire il miglior animale disponibile.
+
 ## 1. La tua idea in poche parole
 AdoptMatch è un sistema basato su intelligenza artificiale che abbina persone interessate all’adozione di animali con cani e gatti disponibili nei rifugi, in base a preferenze, stile di vita e compatibilità comportamentale.
 
